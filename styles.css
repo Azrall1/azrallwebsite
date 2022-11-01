@@ -17,6 +17,9 @@ a:link {
   color: white;
   background-color;
 }
+a:visited {
+  color: green;
+}
 
 img {
   display: block;
